@@ -1,4 +1,4 @@
-#MERN Email Verification with OTP
+# MERN Email Verification with OTP
 
 This project implements a secure Email Verification System with OTP in a MERN stack application. It ensures user authentication by sending a One-Time Password (OTP) via email for account verification.
 
