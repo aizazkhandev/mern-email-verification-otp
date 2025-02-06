@@ -4,10 +4,10 @@ This project implements a secure Email Verification System with OTP in a MERN st
 
 🚀 Features:
 
-✅ User registration with email verification
-✅ OTP-based email authentication
-✅ Backend built with Node.js & Express
-✅ Database management with MongoDB
+✅ User registration with email verification,
+✅ OTP-based email authentication,
+✅ Backend built with Node.js & Express,
+✅ Database management with MongoDB,
 
 🔥 Tech Stack:
 
